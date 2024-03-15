@@ -1,3 +1,13 @@
 alt + z = ajustar al codigo
 ctrl + k + c = comentario
 ctrl + k + u = sin comentario
+
+git hub comandos
+git config --global user.name "Abel"
+git config --global user.email "abelito_9_12@hotmail.com"
+
+git init para iniciar
+git status para ver el estado del proyecto 
+git add . para agregar todos los archivos
+git commit -m "escribir la descripción del cambio"
+
